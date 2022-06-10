@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahuljonwal
-- 👀 I’m interested in ...infra/cloud/devops
-- 🌱 I’m currently learning ...cloud
-- 💞️ I’m looking to collaborate on ...cloud
+- 👀 I’m interested in ...k8/cloud/devops/security
+- 🌱 I’m currently learning ...k8/cloud/security
+- 💞️ I’m looking to collaborate on ...k8/cloud/security
 - 📫 How to reach me ...
 
 <!---
